@@ -11,3 +11,4 @@ information.
 * basic_drawing.c - Demonstrates some basic X drawing functions
 * event.c - Demonstrates xcb events: keyboard, mouse, expose, et cetera
 * font.c - Core server fonts. TODO: This demo should probably be suplemented with another font library?
+* window_name.c - Set the window and icon name
