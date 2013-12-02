@@ -12,3 +12,4 @@ information.
 * event.c - Demonstrates xcb events: keyboard, mouse, expose, et cetera
 * font.c - Core server fonts. TODO: This demo should probably be suplemented with another font library?
 * window_name.c - Set the window and icon name
+* mouse_cursor.c - Change the mouse cursor
