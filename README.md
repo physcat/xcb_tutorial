@@ -9,3 +9,4 @@ information.
 * first_window.c - Creates a basic window
 * basic_gc.c - Set up a basic graphics context
 * basic_drawing.c - Demonstrates some basic X drawing functions
+* event.c - Demonstrates xcb events: keyboard, mouse, expose, et cetera
